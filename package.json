@@ -1,0 +1,19 @@
+{
+  "name": "online_payment",
+  "version": "1.0.0",
+  "description": "This is a code repository for a tutorial on medium. For a detailed explanation of the code <a href='https://medium.com/bithubph/payment-integration-with-node-js-express-request-and-paystack-api-8cebf51c1f52?fbclid=IwAR0pKEfIhY4RSH8UKoheaFHnDyJnqKp-N8rB5JRQHzfPHVg6w72Dq2_xDLE' target='_blank'>medium post</a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "hatice dastan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.13",
+    "pug": "^2.0.4",
+    "request": "^2.88.0"
+  }
+}
